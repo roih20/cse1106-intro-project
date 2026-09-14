@@ -1,2 +1,3 @@
-# cse1106-intro-project
-GitHub Lab
+# Intro Project
+
+This is an intro project 
